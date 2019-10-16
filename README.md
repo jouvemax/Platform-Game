@@ -1,6 +1,10 @@
 # README
 ---
 
+## Contributeurs
+Robin Mamié (robinmamie)
+Maxence Jouve (jouvemax)
+
 ## Lancer le programme
 
 Compiler et exécuter `src\platform\Program.java`.
