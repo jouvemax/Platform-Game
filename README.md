@@ -2,8 +2,8 @@
 ---
 
 ## Contributeurs
-Robin Mamié (robinmamie)
-Maxence Jouve (jouvemax)
+- Robin Mamié (robinmamie)
+- Maxence Jouve (jouvemax)
 
 ## Lancer le programme
 
