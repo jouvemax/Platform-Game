@@ -5,12 +5,6 @@
 
 Compiler et exécuter `src\platform\Program.java`.
 
-**IMPORTANT** : télécharger le dossier suivant : [https://drive.switch.ch/index.php/s/WYjT0Z4HakXFRGV](https://drive.switch.ch/index.php/s/WYjT0Z4HakXFRGV)
-<br>
-Ensuite, le dézipper et le placer à la racine du projet (save doit être au même niveau que src/ et res/).
-<br>
-`world01` désigne le second niveau présent dans le menu **PLAY**.
-
 ## Commandes
 
 ### Menu principal
